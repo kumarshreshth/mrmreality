@@ -5,7 +5,7 @@ const App = () => {
     <div className="relative w-full h-screen">
       <div
         className="absolute inset-0 bg-cover bg-center blur-sm"
-        style={{ backgroundImage: "url('./public/bg.webp')" }}
+        style={{ backgroundImage: "url('bg.webp')" }}
       ></div>
 
       <div className="absolute inset-0 bg-black/40"></div>
